@@ -46,15 +46,15 @@ O Django é usado para:
 
 # 🎯 6. Definição do Problema
 
-## 📌 Problema escolhido
+##  Problema escolhido
 
 Sistema para uma **estética automotiva**.
 
-## 📌 Descrição
+##  Descrição
 
 Muitos negócios de estética automotiva não possuem presença digital eficiente.
 
-## 📌 Solução proposta
+##  Solução
 
 Criar um sistema web que permita:
 
